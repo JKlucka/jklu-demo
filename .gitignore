@@ -1,0 +1,12 @@
+# IntelliJ IDEA
+.idea/
+.idea/workspace.xml
+
+# Compiled files
+build/
+
+# Gradle
+.gradle/
+
+# Logs
+*.log
